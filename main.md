@@ -176,3 +176,66 @@ echo "<br><br>";
 
 // hope you enjoyed the episode, thnx for watching n see you next time.
 ```
+
+# 2. DATA TYPES
+hey, what’s up guyz, 
+
+welcome to the 2nd episode of "PHP with MySQL Crash Course for Beginners" DATA TYPES
+
+data types represent the type of data that a variable or a constant can hold. PHP supports various data types, each with its specific characteristics and uses.
+
+In PHP, variables can hold different types of data. Here are some common data types.\
+(dataTypes.php)
+```PHP
+// Integer
+// An integer is a fundamental data type used in programming to represent whole numbers without any decimal or fractional parts. 
+
+$number = 42;
+echo "Integer: $number<br>";
+
+
+// Float (Floating Point Number)
+// a float is a numeric data type that can represent decimal numbers such as: 3.14, -0.25, 100.0, etc.,
+
+$floatNum = 3.14;
+echo "Float: $floatNum<br>";
+
+// String
+// A string refers to a sequence of characters, such as letters, numbers, symbols, or spaces, arranged in a specific order, and enclosed within single quotes (' ') or double quotes (" ")
+
+$stringVar = "Hello, PHP!";
+echo "String: $stringVar<br>";
+
+// Boolean
+// Boolean is a data type that represents a logical value. It can have one of two possible states: true or false.
+
+$isTrue = true;
+$isFalse = false;
+echo "Boolean (True): $isTrue<br>";
+echo "Boolean (False): $isFalse<br>";
+
+// Null
+// null is a special-data-type that represents a variable with no value or a variable that has been explicitly set to null. 
+$nullVar = null;
+echo "Null: $nullVar<br>";
+
+// Array
+// an array is a data structure that stores multiple values in a single variable, You will learn more about it in its dedicated episode.
+$myArray = array("apple", "banana", "orange");
+
+echo "Array: ";
+// print_r() is a function used for debugging purposes to display structured information such as an array in a human-readable format.
+print_r($myArray);
+
+echo "<br>";
+
+// Object
+// In PHP, an object is a fundamental concept in object-oriented programming (OOP) that allows you to create an instance of a class. n You will learn more about it in its dedicated episode.
+
+
+// n That was all about "dataTypes"
+
+// if you have any question, you just feel free to comment below.and Do not forget to like, share and subscribe.
+
+// hope you enjoyed the episode, thnx for watching n see you next time.
+```
