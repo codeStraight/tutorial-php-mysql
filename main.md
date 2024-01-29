@@ -4,7 +4,8 @@ index.php
 // php slide
 // first of all let's talk about PHP-SYNTAX
   <?php echo 'Hello codeStraight'; ?>
-
+```
+```php
 // php Code starts with "left-angle, question, php" and ends with "question-mark, and right-angle"
 // echo is used to display or output content to the web browser "  
 // php statement always ends with a semicolon ;
