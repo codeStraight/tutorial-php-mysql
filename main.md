@@ -4,8 +4,7 @@ index.php
 // php slide
 // first of all let's talk about PHP-SYNTAX
   <?php echo 'Hello codeStraight'; ?>
-```
-```php
+
 // php Code starts with "left-angle, question, php" and ends with "question-mark, and right-angle"
 // echo is used to display or output content to the web browser "  
 // php statement always ends with a semicolon ;
@@ -23,7 +22,8 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, temporibus.
 
 // add html-template
 // add footer
-
+```
+```php
 // after that let's move on to VARIABLES:
 
 // In PHP, a variable is a placeholder or a container that holds a value. It's a fundamental concept used to store and manipulate various types of data within a script.
